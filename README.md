@@ -1,39 +1,24 @@
-# Food Order Project
+# Zevvo
 
-Welcome to the Food Order Project repository! This web application is developed using Next.js and Chakra UI, ensuring a seamless experience for users on both mobile and desktop devices. The project boasts a pixel-perfect design crafted with HTML and CSS, providing an aesthetically pleasing and responsive interface.
+Welcome to Zevvo, where innovation meets sustainable urban mobility. We're on an exciting journey in stealth mode, driven by an unwavering passion for redefining the landscape of business and urban transportation through cutting-edge electric vehicles.
 
-## Features
-- **Next.js Framework:** Utilizing the power of Next.js for a fast and efficient web experience.
-- **Chakra UI:** Leveraging Chakra UI to create a visually appealing and user-friendly design.
-- **Responsive Design:** Ensuring optimal performance on both mobile and desktop devices.
-- **Pixel-Perfect Layout:** Precision in design to deliver a visually consistent and polished user interface.
-- **Figma Integration:** Developed based on the provided Figma file for accurate design implementation.
+## Mission Statement
 
+At Zevvo, our mission is to reimagine the future of urban mobility, fostering a sustainable and connected world for all. We strive to lead the charge in transforming the way we move, shaping a future where electric vehicles play a pivotal role in creating cleaner, smarter, and more efficient cities.
 
-### Output - 
+## Key Features
 
-![Screenshot (71)](https://github.com/MalharMane/the-internet-folks-food-assignment-main/assets/104439115/20031fcf-0c88-4463-9a2b-ed7b23913523)
+- **Innovative Electric Vehicles:** Zevvo is at the forefront of electric vehicle technology, bringing you state-of-the-art, environmentally friendly transportation solutions.
 
+- **Stealth Mode Innovation:** Our journey is shrouded in secrecy as we work tirelessly to surprise and delight with groundbreaking advancements in the world of urban mobility.
 
-![Screenshot (72)](https://github.com/MalharMane/the-internet-folks-food-assignment-main/assets/104439115/ca3b806f-e607-4655-9e51-12025d3c4235)
+- **Sustainability at the Core:** We are committed to shaping a sustainable future, and our electric vehicles are designed with environmental responsibility in mind.
 
+## Getting Started
 
-![Screenshot (73)](https://github.com/MalharMane/the-internet-folks-food-assignment-main/assets/104439115/071d3363-7f26-439d-ae43-1cd9d40f4d22)
+As we operate in stealth mode, specific details about our products and services are currently confidential. Stay tuned for updates as we unveil our revolutionary contributions to urban mobility.
 
+## Connect With Us
 
-![Screenshot (74)](https://github.com/MalharMane/the-internet-folks-food-assignment-main/assets/104439115/fa9278f0-dd37-496f-b39b-4b6bc6ebaea5)
+Join us on this exhilarating journey towards a cleaner, smarter, and more sustainable urban future with Zevvo.
 
-
-## Figma file - 
-
-![Screenshot (75)](https://github.com/MalharMane/the-internet-folks-food-assignment-main/assets/104439115/a2d9d982-9f3f-4a7c-82a5-3c583a70b106)
-
-
-
-## How to Run
-1. Clone the repository.
-2. Install dependencies using `npm install`.
-3. Run the application with `npm run dev`.
-4. Access the project on your browser at [http://localhost:3000](http://localhost:3000).
-
-Feel free to explore, contribute, and enhance the Food Order Project! If you have any questions or feedback, don't hesitate to reach out.
